@@ -5,5 +5,5 @@ export const welcomings = [
 	"Bruna",
 	"Dijalma",
 	"Emilly",
-	"Mateus",
+	"Matheus",
 ] as const;
