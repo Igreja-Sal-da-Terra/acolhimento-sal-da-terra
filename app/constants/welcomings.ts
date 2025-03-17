@@ -6,4 +6,7 @@ export const welcomings = [
 	"Dijalma",
 	"Emilly",
 	"Matheus",
+	"Rosa",
+	"Rafael",
+	"Maria Aparecida",
 ] as const;
