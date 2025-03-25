@@ -9,4 +9,5 @@ export const welcomings = [
 	"Rosa",
 	"Rafael",
 	"Maria Aparecida",
+	"Kauan"
 ] as const;
